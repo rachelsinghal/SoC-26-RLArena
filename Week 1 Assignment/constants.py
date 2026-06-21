@@ -1,0 +1,6 @@
+ROWS = 3
+COLS = 10
+
+EMPTY_CELL = "."
+PLAYER_CELL = "P"
+OBSTACLE_CELL = "X"
